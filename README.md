@@ -10,4 +10,5 @@
 <br/>
 
 ## CONTACT WITH ME
-<a ref="https://vk.com/seferen">VK</a>
+<a align="left" href="https://vk.com/seferen"><img width="50px" src="https://pngimg.com/uploads/vkontakte/vkontakte_PNG19.png" /></a>
+<a align="left" href="https://www.facebook.com/izubov/"><img width="50px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19753.png"></a>
